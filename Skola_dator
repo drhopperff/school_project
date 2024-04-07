@@ -1,0 +1,16 @@
+<button onclick="Test.innerText = 'Kiberkrāpšana un krāpšana: tas ietver dažāda veida uzbrukumus, kuru mērķis ir piekļūt jūsu līdzekļiem vai personas informācijai. Pikšķerēšana ir izplatīta metode, kurā uzbrucēji sūta e-pasta ziņojumus, uzdodoties par likumīgām organizācijām, lai piesaistītu sensitīvu informāciju, piemēram, paroles vai kredītkaršu numurus. Kiberkrāpšana var ietvert arī viltotu vietņu, viltotu tiešsaistes veikalu izveidi vai ļaunprātīgas programmatūras izmantošanu, lai piekļūtu jūsu ierīcei.' " id="btn">
+  Kiberkrāpšana.
+</button>
+<button onclick="Test.innerText = 'Kiberbullings: tas ir agresīvas uzvedības veids, kas notiek tiešsaistē un var ietvert draudus, apvainojumus, diskrimināciju vai nepatiesas informācijas izplatīšanu par personu. Tiešsaistes uzmākšanās var izraisīt psiholoģiskas problēmas, depresiju, trauksmi un dažos gadījumos pat pašnāvību.'" id="btn">
+  Kiberbullings.
+</button>
+<button onclick="Test.innerText = 'Šīs programmas ir paredzētas, lai iebruktu jūsu datorā vai mobilajā ierīcē, lai piekļūtu jūsu datiem vai ierīcei. Vīrusi var izplatīties caur inficētiem failiem, e-pastiem vai ļaunprātīgām vietnēm. Sekas ietver datu zudumu, sistēmas bojājumus un pat to, ka jūsu ierīci attālināti kontrolē uzbrucēji.'" id="btn">
+  Ļaunprātīga programmatūra un vīrusi.
+</button>
+<button onclick="Test.innerText = 'Jūsu personiskā informācija var tikt apdraudēta, ja tiek uzbrukts drošības nepilnībām, datu pārkāpumi no organizācijām vai nepareizi apstrādāta sensitīva informācija. Tas var izraisīt identitātes zādzību, finansiālus zaudējumus un nopietnus jūsu privātuma pārkāpumus. Lai novērstu šādus draudus, ir ļoti svarīgi aizsargāt savu personisko informāciju un izmantot drošu tiešsaistes praksi.'" id="btn">
+  Datu noplūde.
+</button>
+
+<br>
+
+<p id="Test">Sveiki! Izvelēties rakstu. </p>
